@@ -1,1 +1,1 @@
-# This is my local repo of the updated till up horizonta
+# This is my local repo of the updated till up horizontal
