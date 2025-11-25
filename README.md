@@ -1,1 +1,1 @@
-# This is my local repo of the updated till up horizont
+# This is my local repo of the updated till up horizon
